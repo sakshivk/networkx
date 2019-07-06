@@ -2,7 +2,7 @@
 """
 Created on Thu Jul  4 14:24:44 2019
 
-@author: ME
+@author: SAKSHI SHARMA<imsakshivk@gmail.com, sakshi.cse18@nitttrchd.ac.in>
 """
 
 import networkx as nx
